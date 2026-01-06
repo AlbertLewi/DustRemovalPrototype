@@ -4,6 +4,7 @@ This program is a prototype for a dust removal pipeline I am working on for a pr
 - Image names must be manually changed
 - Path for run image storge must be specified by you
 - Detection works fairly well within the limitations
+- Make your own test folders and what not 
 
 Some Limitations:
 - Code can not handle reflections on dust just reflections on surrounding surfaces
