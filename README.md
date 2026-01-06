@@ -4,6 +4,7 @@ This program is a prototype for a dust removal pipeline I am working on for a pr
 - Image names must be manually changed
 - Path for run image storge must be specified by you
 - Detection works fairly well within the limitations
+
 Some Limitations:
 - Code can not handle reflections on dust just reflections on surrounding surfaces
 - Code can not handle other intefering objects on surface
@@ -12,6 +13,7 @@ Some Limitations:
 - Code does not discriminate between dust and other objects
 - Code can not handle live imaging
 - Code can not auto determine accuracy, accuracy must be empirically tested, which is possible with the given test images
+
 Current Use:
 - Code can handle flat clear surface images with semi large dust particles and more obvious dust films
 - Code can handle a variaty of backgrounds
