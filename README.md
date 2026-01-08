@@ -9,7 +9,7 @@ This program is a prototype for a dust removal pipeline I am working on for a pr
 Some Limitations:
 - Code can not handle reflections on dust just reflections on surrounding surfaces
 - Code can not handle other intefering objects on surface
-- Surface must be quite flat
+- Surface must be quite flat and without complex lighting 
 - Small films of dust may be missed
 - Code does not discriminate between dust and other objects
 - Code can not handle live imaging
